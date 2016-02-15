@@ -12,3 +12,9 @@ storage/
 .env.php
 .env
 .env.example
+
+#Idea folder and files
+.idea/
+
+#Netbeans folder
+nbproject/
